@@ -27,6 +27,9 @@
   <span>
     <img align="center" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />
   </span>
+    <span>
+    <img align="center" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  </span>
 </div>
 </details>
 <br><br>
