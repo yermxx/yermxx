@@ -16,6 +16,10 @@
     <img align="center" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" />
   </span>
   <span>
+    <img align="center" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  </span>
+  
+  <span>
     <img align="center" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   </span>
   <span>
@@ -33,15 +37,15 @@
 <br><br><br><br>
 </div>
 
-## 🙋🏻‍♀️ Contact With Me
+<!-- ## 🙋🏻‍♀️ Contact With Me
 <div align="center">
-<!--   <span>
+  <span>
     <a href="https://yermxx.github.io">
       <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />
     </a>
-  </span> -->
+  </span>
   <span>
-    <a href="https://yermxx.tistory.com/">
+    <a href="/">
       <img src="https://img.shields.io/badge/Blog-AECBFA?style=flat-square&logo=Tistory&logoColor=white" />
     </a>
   </span>
@@ -49,9 +53,11 @@
     <a href="mailto:66yrlee99@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
     </a>
-  </span>
+  </span> 
+</div>
 <br><br><br><br><br><br>
 
 <!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyermxx%2Fhit-counter&count_bg=%23FE6E96&title_bg=%23272A36&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyermxx%2Fhit-counter&count_bg=%23FE6E96&title_bg=%23272A36&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
 </div>
